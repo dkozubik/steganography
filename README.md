@@ -1,2 +1,2 @@
 # steganography
-code will be uploaded soon
+Class <ImageToImage> can encode/decode one image into/from another.
